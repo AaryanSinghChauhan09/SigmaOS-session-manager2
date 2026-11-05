@@ -1,0 +1,5 @@
+[component]
+name = "SigmaOS-session-manager2"
+description = "Session save and restore alternate component"
+version = "0.1.0"
+tier = 2
